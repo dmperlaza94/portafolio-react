@@ -1,13 +1,14 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Habilidad from "../imagenes/Captura.PNG";
 
 class Habilidades extends React.Component {
   render() {
     return (
-      <div>
+      <div className=" d-flex justify-content-center ">
         <img
-          src="https://miro.medium.com/max/1400/1*BUvWQ2QkL0aXN-_kM1UxfQ.png"
-          className="img-fluid"
+          src={Habilidad}
+          className="img-fluid text-center m-auto"
           alt="Responsive image"
         />
       </div>

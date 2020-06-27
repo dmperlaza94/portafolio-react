@@ -10,7 +10,7 @@ class Proyectos extends React.Component {
     return (
       <div id="trabajos">
         <h1 className="titulo-pp"> Mis proyectos</h1>
-        <p className="parrafo">
+        <p className="parrafo text-center">
           En está sección se encuentra la descripcion de los proyectos que he
           realizado en el trancurso de mi carrera.
         </p>

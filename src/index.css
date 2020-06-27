@@ -43,8 +43,3 @@ body {
 .icono {
   margin: 10px;
 }
-@media only screen and (min-width: 1000px) {
-  body {
-    background-color: blue;
-  }
-}
