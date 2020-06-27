@@ -6,45 +6,18 @@ body {
   padding: 35px 0 25px 0;
   text-align: center;
 }
-.contenedor-seccion {
-  margin: 50px 50px 100px 100px;
-  width: 80%;
-}
-.container-padre {
-  display: flex;
-  flex-wrap: wrap;
-}
+
 .container-info {
   margin-top: 35px;
   width: 50%;
 }
 .container-img {
-  width: 50%;
+  height: 200px;
 }
-.imagen-cuerpo {
-  width: 35%;
-  height: auto;
-  border-radius: 30%;
+.container-img img {
+  height: 100%;
 }
-.row {
-  display: flex;
-  flex-wrap: wrap;
-}
-.card-img {
-  width: 100px;
-}
-.card-title {
-  text-align: center;
-}
-.parrafo {
-  text-align: center;
-  margin: 50px;
-}
-.card {
-  margin: 0px 250px 30px 250px;
-  width: 200px;
-  height: auto;
-}
+
 .img-edu {
   margin-left: 60px;
   width: 70px;

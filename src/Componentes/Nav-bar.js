@@ -25,17 +25,17 @@ class Menu extends React.Component {
             </svg>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">
+            <a className="nav-link" href="#yo">
               Sobre mi
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">
+            <a className="nav-link" href="#estudios">
               Educacion
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">
+            <a className="nav-link" href="#trabajos">
               Mis proyectos
             </a>
           </li>

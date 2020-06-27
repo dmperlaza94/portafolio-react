@@ -8,7 +8,7 @@ import formularyServis from "../imagenes/formulario.png";
 class Proyectos extends React.Component {
   render() {
     return (
-      <div>
+      <div id="trabajos">
         <h1 className="titulo-pp"> Mis proyectos</h1>
         <p className="parrafo">
           En está sección se encuentra la descripcion de los proyectos que he
